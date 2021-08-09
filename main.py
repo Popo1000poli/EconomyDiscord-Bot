@@ -25,8 +25,8 @@ import os
 
 class BotData():
 
-    prefix = json.load(open('data\\config.json'))['prefix']
-    token = json.load(open('data\\config.json'))['token']
+    prefix = json.load(open('data\\config.json'))['do']
+    token = json.load(open('data\\config.json'))['ODc0MjQ1OTMwMzUyNzk5NzU0.YREK-A.Fkf_MzDAgT7ye96l6lK_T7uMULg']
 
     xpmsg = json.load(open('data\\config.json'))['xpmsg']
     xplvl = json.load(open('data\\config.json'))['xplvl']
